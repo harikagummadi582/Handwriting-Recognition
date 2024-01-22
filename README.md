@@ -25,4 +25,5 @@ To run the project, follow these general steps:
 - Harika Gummadi
 
 ## License
-This project is licensed under the bsd 3- clause license - see the [LICENSE.md] file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE.md](LICENSE.md) file for details.
+
